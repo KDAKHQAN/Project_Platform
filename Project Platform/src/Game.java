@@ -14,6 +14,7 @@ public class Game {
     int VEL = 0;
     static int VELY = 1;
     boolean IDRK;
+    String dick = "dick";
 
     Game() {
         Timer g = new Timer(3,new ActionListener() {
